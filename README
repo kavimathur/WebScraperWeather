@@ -1,0 +1,1 @@
+Uses BeautifulSoup to extract weather data from weather.com 10 day forecast and put it into a structured Pandas dataframe.
